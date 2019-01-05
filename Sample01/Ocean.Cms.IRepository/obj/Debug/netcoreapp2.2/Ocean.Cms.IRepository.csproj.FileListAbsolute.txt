@@ -1,0 +1,14 @@
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.IRepository.deps.json
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.IRepository.dll
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.IRepository.pdb
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.csproj.CoreCompileInputs.cache
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.AssemblyInfoInputs.cache
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.AssemblyInfo.cs
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.dll
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.pdb
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.Core.dll
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.Models.dll
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.Core.pdb
+E:\Ocean.Cms\Ocean.Cms.IRepository\bin\Debug\netcoreapp2.2\Ocean.Cms.Models.pdb
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.csprojAssemblyReference.cache
+E:\Ocean.Cms\Ocean.Cms.IRepository\obj\Debug\netcoreapp2.2\Ocean.Cms.IRepository.csproj.CopyComplete

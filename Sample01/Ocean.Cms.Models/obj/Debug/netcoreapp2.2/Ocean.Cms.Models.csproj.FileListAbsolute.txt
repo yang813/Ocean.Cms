@@ -1,0 +1,9 @@
+E:\Ocean.Cms\Ocean.Cms.Models\bin\Debug\netcoreapp2.2\Ocean.Cms.Models.deps.json
+E:\Ocean.Cms\Ocean.Cms.Models\bin\Debug\netcoreapp2.2\Ocean.Cms.Models.dll
+E:\Ocean.Cms\Ocean.Cms.Models\bin\Debug\netcoreapp2.2\Ocean.Cms.Models.pdb
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.csprojAssemblyReference.cache
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.csproj.CoreCompileInputs.cache
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.AssemblyInfoInputs.cache
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.AssemblyInfo.cs
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.dll
+E:\Ocean.Cms\Ocean.Cms.Models\obj\Debug\netcoreapp2.2\Ocean.Cms.Models.pdb

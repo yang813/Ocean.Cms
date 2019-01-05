@@ -1,0 +1,8 @@
+E:\Ocean.Cms\Ocean.Cms.ViewModels\bin\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.deps.json
+E:\Ocean.Cms\Ocean.Cms.ViewModels\bin\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.dll
+E:\Ocean.Cms\Ocean.Cms.ViewModels\bin\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.pdb
+E:\Ocean.Cms\Ocean.Cms.ViewModels\obj\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.csproj.CoreCompileInputs.cache
+E:\Ocean.Cms\Ocean.Cms.ViewModels\obj\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.AssemblyInfoInputs.cache
+E:\Ocean.Cms\Ocean.Cms.ViewModels\obj\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.AssemblyInfo.cs
+E:\Ocean.Cms\Ocean.Cms.ViewModels\obj\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.dll
+E:\Ocean.Cms\Ocean.Cms.ViewModels\obj\Debug\netcoreapp2.2\Ocean.Cms.ViewModels.pdb

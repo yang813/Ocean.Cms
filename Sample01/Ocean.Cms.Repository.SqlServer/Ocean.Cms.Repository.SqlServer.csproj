@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ocean.Cms.Core\Ocean.Cms.Core.csproj" />
+    <ProjectReference Include="..\Ocean.Cms.IRepository\Ocean.Cms.IRepository.csproj" />
+    <ProjectReference Include="..\Ocean.Cms.Models\Ocean.Cms.Models.csproj" />
+  </ItemGroup>
+
+</Project>
